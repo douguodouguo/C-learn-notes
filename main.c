@@ -1,13 +1,9 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include<stdio.h>
-int main(void) {	
-	
-	int number = 0;
+int main(void) {
 
-	printf("请输入一个在[0，153]范围内的十进制数：\n");
-	scanf("%d", &number);
 
-	int binary = 
+
 
 }
 
@@ -20,8 +16,6 @@ int plus(x, y){
 	printf("%d + %d = %d\n", a, b, a + b);
 
 }
-
-float Highter(void){
 
 	int foot = 0;
 	int inch = 0;
